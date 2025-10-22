@@ -11,8 +11,6 @@ readability.c – Calculates the reading grade level of a text using the Coleman
 
 scrabble.c – Computes scores for a two-player Scrabble-style word game.
 
-runoff.c – Implements a ranked-choice (runoff) voting simulation.
-
 substitution.c – Performs text encryption using a substitution cipher.
 
 mario.c – Prints a double-pyramid structure reminiscent of Super Mario Bros.
